@@ -1,6 +1,9 @@
 # Learn Terraform Docker Container
 Use terraform to provision and deploy NGINX to docker
 
+## Pre-requisite
+- Docker
+
 ## Steps
 ```
 # Initialize the project, which downloads a plugin that allows Terraform to interact with Docker.

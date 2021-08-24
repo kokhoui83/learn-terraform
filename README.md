@@ -1,5 +1,10 @@
 # Learn Terraform
 
-## Docker Container
+## Pre-requisite
+- Terraform CLI
 
-## AWS
+## Docker Container
+[README.md](./docker-container/README.md)
+
+## AWS Instance
+[README.md](./aws-instance/README.md)
