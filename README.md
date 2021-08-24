@@ -1,17 +1,5 @@
-# Learn Terraform Docker Container
-Use terraform to provision and deploy NGINX to docker
+# Learn Terraform
 
-## Steps
-```
-# Initialize the project, which downloads a plugin that allows Terraform to interact with Docker.
-terraform init
+## Docker Container
 
-# Provision the NGINX server container with apply. When Terraform asks you to confirm type yes and press ENTER.
-terraform apply
-
-# Verify existance of NGINX by visiting localhost:8000 or running docker ps
-docker ps
-
-# Stop container
-terraform destroy
-```
+## AWS
